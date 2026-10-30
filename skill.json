@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-seo-audit",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark SEO Audit - Flesch-Kincaid readability and TF-IDF semantic density auditor with internal linking crawl depth penalties.",
+  "tools": [
+    "calculate_readability_metrics",
+    "audit_keyword_density_and_stuffing",
+    "compute_internal_linking_page_rank_penalty"
+  ]
+}
